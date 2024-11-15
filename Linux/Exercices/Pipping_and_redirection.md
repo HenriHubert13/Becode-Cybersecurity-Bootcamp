@@ -1,4 +1,4 @@
-Pipping_and_redirection
+# Pipping_and_redirection
 
 - Write the message "hello everyone" in a file called "test" by redirecting the output of the echo command.
 
